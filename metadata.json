@@ -1,0 +1,7 @@
+{
+  "name": "Prestige Voice AI",
+  "description": "Next-generation AI voice agents for Real Estate professionals. Featuring intelligent receptionists and 24/7 emergency support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
